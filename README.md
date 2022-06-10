@@ -15,4 +15,4 @@ June has a min temp of 64 and max of 85 while, December has a min of 56 and max 
 June's 25th, 50th, and 75th percentiles are all in low to mid 70s. December’s percentiles are in high 60s to low 70s. Once again when we dig deeper, we can see that the temperature has lower lows in December.
 
 ## Summary
-It would be beneficail to get another data set that has temperatures and ice cream sales. We can run a regression analysis and determine an inflection point where given a tempertaure below certian degree ice cream sales drop off. 
+June's temperatures are high enough to suggest likely ice cream sales through the month. On the other hand, there is significant variability in December to raise concern. It might be helpful to close the ice cream shop on certain days/hours in December when it is colder. Another query about rain fall would be helpful. it's assumed that ice cream sales would be minimal if it’s raining. It would be beneficial to get another data set that has temperatures and ice cream sales. We can run a regression analysis and determine an inflection point where given a temperature ice cream sales could drop off.
